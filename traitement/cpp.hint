@@ -1,0 +1,2 @@
+#define TRAITEMENT_API __declspec(dllexport)
+#define TRAITEMENT_API __declspec(dllimport)
